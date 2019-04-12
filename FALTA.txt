@@ -1,0 +1,9 @@
+**FALTA**
+- LA OPCION DE CERRAR FACTURA VENTA Y COMPRA
+-RELACIONAR AL USUARIO CON LA FACTURA
+-FILTRAR LAS FACTURAS POR USUARIO
+
+
+
+-verificar  if al cliente se le puede vender a credito
+
